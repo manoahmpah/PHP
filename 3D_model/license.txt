@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Retro Calculator
+* source:	https://sketchfab.com/3d-models/low-poly-retro-calculator-895e0c5280a6438bb3126fa2b3f08ae7
+* author:	Macky (https://sketchfab.com/mackybtw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Retro Calculator" (https://sketchfab.com/3d-models/low-poly-retro-calculator-895e0c5280a6438bb3126fa2b3f08ae7) by Macky (https://sketchfab.com/mackybtw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
